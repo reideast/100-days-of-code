@@ -12,3 +12,6 @@ The log of my #100DaysOfCode challenge. Started on [January 1, Wednesday, 2020].
 
 ### R1D3 3/1/2020
 `cv-blog-js` - Split frontend and backend to separate repos. Deployed both successfully to separate Heroku apps. Set up both for Continuous Deployment upon commit to `master` and passing CI in GitHub Actions https://github.com/reideast/cv-blog-js https://github.com/reideast/cv-blog-js-backend
+
+### R1D4 4/1/2020
+`cv-blog-js` - Attempted to get a http mock working with the 'nock' library for node environments, but needs work. https://github.com/reideast/cv-blog-js 
