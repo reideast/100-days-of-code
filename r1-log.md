@@ -18,3 +18,6 @@ The log of my #100DaysOfCode challenge. Started on [January 1, Wednesday, 2020].
 
 ### R1D5 5/1/2020
 `cv-blog-js` - Successfully got testing working the the Enzyme library https://github.com/reideast/cv-blog-js
+
+### R1D6 6/1/2020
+`cv-blog-js` - Set up a basic CV with CSS flexbox; restructured into Reach components; stubbed with my basic CV data. Created a Heroku pipeline and a Staging/Release branch https://cv-blog-js-staging.herokuapp.com/
