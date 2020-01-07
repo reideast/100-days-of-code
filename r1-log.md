@@ -21,3 +21,6 @@ The log of my #100DaysOfCode challenge. Started on [January 1, Wednesday, 2020].
 
 ### R1D6 6/1/2020
 `cv-blog-js` - Set up a basic CV with CSS flexbox; restructured into Reach components; stubbed with my basic CV data. Created a Heroku pipeline and a Staging/Release branch https://cv-blog-js-staging.herokuapp.com/
+
+### R1D7 7/1/2020
+`cv-blog-js` - Restructured the CV detail items so that the HTML hierarchy has distinct items that I can style with CSS. Use grid-auto-flow to make each dl item: `##|######` https://github.com/reideast/cv-blog-js
