@@ -27,3 +27,6 @@ The log of my #100DaysOfCode challenge. Started on [January 1, Wednesday, 2020].
 
 ### R1D8 8/1/2020
 `cv-blog-js` - Customised HTML tags to better express data stored within (justified with some quick research: [Custom HTML Tags](https://dev.to/jfbrennan/custom-html-tags-4788)). Inlined header elems into inline flow. https://github.com/reideast/cv-blog-js/tree/release
+
+### R1D9 9/1/2020
+`cv-blog-js` - Entered the my user data; restructured the HTML tags some more, paying attention to DOM structure for reqiured container elements https://github.com/reideast/cv-blog-js/tree/flexbox-grid
