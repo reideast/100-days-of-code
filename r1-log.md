@@ -30,3 +30,6 @@ The log of my #100DaysOfCode challenge. Started on [January 1, Wednesday, 2020].
 
 ### R1D9 9/1/2020
 `cv-blog-js` - Entered the my user data; restructured the HTML tags some more, paying attention to DOM structure for reqiured container elements https://github.com/reideast/cv-blog-js/tree/flexbox-grid
+
+### R1D10 10/1/2020
+`cv-blog-js-backend` - Move the "jobs" data into a basic API, to be consumed by the front end https://github.com/reideast/cv-blog-js-backend/tree/api-job
