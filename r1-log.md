@@ -36,3 +36,6 @@ The log of my #100DaysOfCode challenge. Started on [January 1, Wednesday, 2020].
 
 ### R1D11 11/1/2020
 Dockerfiles - Working with the docker build, making the layers execute properly to reduce space (Technically for work, but this wasn't required, so I'm OK calling it "hobby" programming)
+
+### R1D12 12/1/2020
+Dockerfiles - A bunch more dockerfile hacking. Still interesting!
