@@ -33,3 +33,6 @@ The log of my #100DaysOfCode challenge. Started on [January 1, Wednesday, 2020].
 
 ### R1D10 10/1/2020
 `cv-blog-js-backend` - Move the "jobs" data into a basic API, to be consumed by the front end https://github.com/reideast/cv-blog-js-backend/tree/api-job
+
+### R1D11 11/1/2020
+Dockerfiles - Working with the docker build, making the layers execute properly to reduce space (Technically for work, but this wasn't required, so I'm OK calling it "hobby" programming)
