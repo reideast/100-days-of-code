@@ -39,3 +39,6 @@ Dockerfiles - Working with the docker build, making the layers execute properly 
 
 ### R1D12 12/1/2020
 Dockerfiles - A bunch more dockerfile hacking. Still interesting!
+
+### R1D13 13/1/2020
+React tutoral - To re-learn React doing the back to basics with the official docs https://github.com/reideast/cv-blog-js/tree/tutorial-react-main-concepts
