@@ -48,3 +48,6 @@ React tutorial - Events, state, etc. https://github.com/reideast/cv-blog-js/tree
 
 ### R1D15 15/1/2020
 React tutorial - Lists of elems, forms, and controlled components. (Was tired, but still got into it; small victory!) https://github.com/reideast/cv-blog-js/tree/tutorial-react-main-concepts
+
+### R1D16 16/1/2020
+`cv-blog-js` Consume the /cv/jobs API on the frontend, separate out into list items https://github.com/reideast/cv-blog-js/
