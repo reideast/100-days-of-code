@@ -51,3 +51,9 @@ React tutorial - Lists of elems, forms, and controlled components. (Was tired, b
 
 ### R1D16 16/1/2020
 `cv-blog-js` Consume the /cv/jobs API on the frontend, separate out into list items https://github.com/reideast/cv-blog-js/
+
+### R1D17 17/1/2020
+`cv-blog-js` `cv-blog-js-backend` Serve all the CV data from API endpoints, consume in the same way on the frontend https://github.com/reideast/cv-blog-js https://github.com/reideast/cv-blog-js-backend
+
+### R1D18 18/1/2020
+`cv-blog-js` Refactor fetch code and API loading/error messages called from React render() so that it can be generic for all components. Required playing around with first order functions and JavaScript `this` binding https://github.com/reideast/cv-blog-js
