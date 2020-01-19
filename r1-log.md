@@ -57,3 +57,6 @@ React tutorial - Lists of elems, forms, and controlled components. (Was tired, b
 
 ### R1D18 18/1/2020
 `cv-blog-js` Refactor fetch code and API loading/error messages called from React render() so that it can be generic for all components. Required playing around with first order functions and JavaScript `this` binding https://github.com/reideast/cv-blog-js
+
+### R1D19 19/1/2020
+`cv-blog-js` Created a code project component https://github.com/reideast/cv-blog-js
