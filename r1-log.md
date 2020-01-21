@@ -63,3 +63,6 @@ React tutorial - Lists of elems, forms, and controlled components. (Was tired, b
 
 ### R1D20 20/1/2020
 `cv-blog-js` Back to making headway on TDD with tests for actual react components (just CodeProject for now) https://github.com/reideast/cv-blog-js
+
+### R1D21 21/1/2020
+`cv-blog-js` Use jest mocks to test fetch() api methods with the generic, extracted functions https://github.com/reideast/cv-blog-js
