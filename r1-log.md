@@ -60,3 +60,6 @@ React tutorial - Lists of elems, forms, and controlled components. (Was tired, b
 
 ### R1D19 19/1/2020
 `cv-blog-js` Created a code project component https://github.com/reideast/cv-blog-js
+
+### R1D20 20/1/2020
+`cv-blog-js` Back to making headway on TDD with tests for actual react components (just CodeProject for now) https://github.com/reideast/cv-blog-js
